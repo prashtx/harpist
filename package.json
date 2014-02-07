@@ -1,0 +1,18 @@
+{
+  "name": "harpist",
+  "version": "0.0.1",
+  "description": "Create a gh-pages branch from Harp output",
+  "main": "lib/server.js",
+  "repository": "",
+  "author": "Prashant Singh",
+  "dependencies": {
+    "express": "~3.4.8",
+    "github-api": "~0.7.0",
+    "harp": "~0.11.2",
+    "lodash": "~2.4.1",
+    "q": "~1.0.0",
+    "readdirp": "~0.3.3",
+    "request": "~2.33.0",
+    "uuid": "~1.4.1"
+  }
+}
